@@ -35,3 +35,8 @@ After configuring the permissions, I tested the setup by trying to access the up
 
 Conclusion
 This task provided valuable hands-on experience with AWS S3, allowing me to understand how to create, configure, and manage cloud storage. By setting up an S3 bucket, uploading files, and configuring access permissions, I was able to practice secure storage, access control, and data management in a cloud environment. This experience enhanced my understanding of cloud storage solutions and their application in real-world scenarios, where security, scalability, and availability are key factors.
+
+#OUTPUT#
+![Image](https://github.com/user-attachments/assets/128d11c8-fafe-425a-b09d-0ee9f746d4e9)
+![Image](https://github.com/user-attachments/assets/de8a53ed-aa08-4b3f-ac93-adee81c40563)
+![Image](https://github.com/user-attachments/assets/381a53bb-ef1b-4e10-aa98-f783af4aa385)
